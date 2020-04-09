@@ -1,0 +1,4 @@
+class Logs {
+	public:
+	protected:
+}
